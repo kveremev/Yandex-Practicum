@@ -38,6 +38,6 @@
     определить другие особенности взаимодействия с клиентами.
 
 ## Используемые библиотеки
-*pandas, numpy, matplotlib, math, scipy*
+*pandas, numpy, plotly, seaborn, math, scipy, sklearn*
 
 
